@@ -1,0 +1,7 @@
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\bin\Debug\summerize.exe.config
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\bin\Debug\summerize.exe
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\bin\Debug\summerize.pdb
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\obj\Debug\summerize.csprojAssemblyReference.cache
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\obj\Debug\summerize.csproj.CoreCompileInputs.cache
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\obj\Debug\summerize.exe
+C:\Users\Sherif Abdalla\source\repos\summerize\summerize\obj\Debug\summerize.pdb
